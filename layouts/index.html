@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+  <title>{{ .Title }}</title>
+
+  {{ partialCached "meta.html" . }}
+
+</head>
+<body>
+    {{ partialCached "nav.html" . }}
+    <div>
+      <!-- Note that .Data.Pages is the equivalent of .Site.Pages on the homepage template. -->
+      {{ range first 10 .Data.Pages }}
+          {{ .Render "summary" }}
+      {{ end }}
+    </div>
+
+      {{ partialCached "bootstrap_js.html" . }}
+</body>
+</html>

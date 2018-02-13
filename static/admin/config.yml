@@ -6,6 +6,11 @@ public_folder: "img/uploads"
 
 publish_mode: editorial_workflow
 
+backend:
+  name: github
+  repo: SpyR1014/explainmypet.com
+
+
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"

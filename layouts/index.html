@@ -9,7 +9,8 @@
 </head>
 <body>
     {{ partialCached "nav.html" . }}
-    <div>
+
+    <div class="container">
       <!-- Note that .Data.Pages is the equivalent of .Site.Pages on the homepage template. -->
       {{ range first 10 .Data.Pages }}
           {{ .Render "summary" }}

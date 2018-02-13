@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.0.0.4-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="75pt" height="75pt" viewBox="0 0 75 75">
+ <defs>
+	</defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -75)">
+   <g id="Layer 1">
+    <path d="M 25.841,45.694 C 22.439,43.686 19.235,40.443 16.721,36.484 C 12.559,29.932 12.205,21.433 14.95,14.791 C 16.628,10.73 19.674,7.201 23.008,4.344 C 26.107,1.687 31.419,-1.147 31.508,3.99 C 32.924,3.901 40.083,4.012 41.071,3.901 C 40.805,-0.615 47.18,1.51 49.571,3.635 C 53.094,6.765 56.613,10.521 58.337,16.474 C 59.784,21.469 59.202,27.966 57.362,32.765 C 55.769,36.927 52.847,41.71 47.712,45.694 C 46.498,46.635 43.56,48.52 43.285,48.703 C 44.524,49.59 44.967,49.501 46.738,50.74 C 48.786,52.174 50.323,53.198 52.05,55.168 C 54.99,58.521 57.431,65.295 54.796,69.335 C 51.893,73.78 45.055,75.71 40.273,71.637 C 39.648,70.737 38.325,67.831 40.953,67.534 C 42.213,67.394 43.094,68.652 44.435,69.157 C 48.04,70.518 52.009,66.523 50.988,63.137 C 49.068,56.773 43.503,53.78 38.237,51.449 C 32.836,49.059 31.242,48.881 25.841,45.694 Z" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.981" stroke="#000000" fill="#525252" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 20.795,25.37 C 21.458,27.504 23.859,33.658 25.776,34.401 C 28.153,35.32 28.777,31.257 29.991,30.151 C 34.038,30.151 38.806,30.151 42.734,29.974 C 43.862,30.998 45.053,34.416 46.759,34.179 C 48.964,32.954 50.59,27.936 51.166,25.812" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.981" stroke="#000000" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 33.191,15.682 C 33.545,14.253 36.022,14.188 36.289,15.593 C 36.708,14.242 39.3,13.912 39.92,15.682" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.981" stroke="#000000" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 26.858,19.489 C 27.811,19.489 28.584,18.715 28.584,17.762 C 28.584,16.809 27.811,16.035 26.858,16.035 C 25.905,16.035 25.131,16.809 25.131,17.762 C 25.131,18.715 25.905,19.489 26.858,19.489 Z" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.981" stroke="none" fill="#000000" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 45.848,19.489 C 46.8,19.489 47.574,18.715 47.574,17.762 C 47.574,16.809 46.8,16.035 45.848,16.035 C 44.895,16.035 44.121,16.809 44.121,17.762 C 44.121,18.715 44.895,19.489 45.848,19.489 Z" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.981" stroke="none" fill="#000000" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 28.762,4.077 C 29.763,3.912 30.98,4.033 32.039,3.99" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.981" stroke="#000000" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 41.071,3.901 C 41.415,3.987 43.571,4.114 43.904,4.077" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.981" stroke="#000000" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 18.396,14.615 C 19.752,14.643 21.153,14.54 22.468,14.702" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.981" stroke="#a7a7a7" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 18.396,16.492 C 19.58,16.382 20.759,16.329 21.919,16.208" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.981" stroke="#a7a7a7" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 54.311,14.615 C 52.807,14.644 51.255,14.541 49.796,14.702" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.981" stroke="#a7a7a7" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 54.311,16.492 C 52.998,16.382 51.691,16.329 50.406,16.209" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.981" stroke="#a7a7a7" stroke-miterlimit="79.8403193612775"/>
+   </g>
+  </g>
+ </g>
+</svg>

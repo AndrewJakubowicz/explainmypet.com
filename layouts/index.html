@@ -4,7 +4,7 @@
 
   <title>{{ .Title }}</title>
 
-  {{ partialCached "meta.html" . }}
+  {{ partial "meta.html" . }}
 
 </head>
 <body>
@@ -23,6 +23,6 @@
       </div>
     </div>
 
-      {{ partialCached "bootstrap_js.html" . }}
+      {{ partial "bootstrap_js.html" . }}
 </body>
 </html>

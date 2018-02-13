@@ -13,5 +13,9 @@ Let's take a hypothetical pet: Delorus the Daschund and talk about what will hap
 2. Once the vet finds the bladder, she places moist sponges around it to make sure her urine doesn't leak out where it's not supposed to, {into what we what we call the peritoneal cavity.}
 3. Some temporary sutures "stay sutures" are then put in the bladder wall. THe bladder is a slippery organ and this provides some "handles" so that the vet can manipulate it easily and prevent it from slipping away into the abyss of Delorus' abdomen! 
 4. Depending on what is available, your vet might now suck all the urine out of the bladder with a needle, or they might cut the bladder open and suck it all out with a surgical suction instrument. This is basically a vaccum cleaner for surgeons. This prevents urine spilling out into the surgical site when it is incised. Just imagine what would happen if you incised a balloon filled with water! This is what we are trying to prevent by emptying the bladder either before or immediately after incising it!
-5.  
+5.  Hooray! we now are inside the bladder. Here the vet can take a look around, see how the bladder wall looks, even take a sample of it for bacterial culture. Often urinary tract infections go hand in hand with stones. Of course we are also here to remove those stones so these will be taken out at this stage. 
+6. The vet will now pass a catheter down Delorus' urinary tract, to clear it out and make sure no more stones are lodged there. After this Delorus should be stone free and is good to get closed up! 
+7. 
+
+tl;dr: We make an incision through your pets tummy to access the bladder. The bladder is incised so that stones can be removed.
 

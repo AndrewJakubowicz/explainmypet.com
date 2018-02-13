@@ -11,15 +11,22 @@ body {
 
 body {
 
-  background-image: url(cartoons/meowers/pattern/outline/meowers_outline.svg),linear-gradient(to right, #1A237E, #283593);;
+  background-image: url(cartoons/meowers/pattern/outline/meowers_outline.svg);
   background-position: top left;
   background-repeat: repeat;
   background-position: top left;
-  background-size: auto, cover;
+  background-size: 30%, cover;
   background-attachment: fixed;
-  -webkit-background-size: auto, cover;
-  -moz-background-size: auto, cover;
-  -o-background-size: auto, cover;
+  -webkit-background-size: 30%, cover;
+  -moz-background-size: 30%, cover;
+  -o-background-size: 30%, cover;
   background-color: #283593;
 
+}
+
+/* set a max-width for horizontal fluid layout and make it centered */
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 950px;
 }

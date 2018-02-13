@@ -1,19 +1,19 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    
-    <title>{{ .Site.Title }}</title>
+<head>
+  
+  <title>{{ .Site.Title }}</title>
 
-    {{ partial "meta.html" . }}
-  </head>
+  {{ partial "meta.html" . }}
+</head>
 
-  <body>
-    {{ partial "nav.html" . }}
+<body>
+  {{ partial "nav.html" . }}
 
-    {{ block "main" . }}
-      <!-- The part of the page that begins to differ between templates -->
-    {{ end }}
-    
-    {{ partial "bootstrap_js.html" . }}
-  </body>
+  {{ block "main" . }}
+    <!-- The part of the page that begins to differ between templates -->
+  {{ end }}
+  
+  {{ partial "bootstrap_js.html" . }}
+</body>
 </html>

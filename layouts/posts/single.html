@@ -1,27 +1,31 @@
 {{ define "main" }}
-<section id="main">
-  <h1 id="title">{{ .Title }}</h1>
-  <div>
-    <article id="content">
-        {{ .Content }}
-    </article>
-  </div>
-</section>
-<aside id="meta">
-    <div>
-    <section>
-      <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
-      <h5 id="wordcount"> {{ .WordCount }} Words </h5>
+<div class="drop-shadow container h-100 bg-light">
+  <div class="row h-100">
+    <section id="main" class="col-12">
+      <h1 id="title" class="mt-5 mb-5">{{ .Title }}</h1>
+
+      <article id="row bg-light h-100">
+          {{ .Content }}
+      </article>
     </section>
-    
-    </div>
-    <div>
-        {{ with .PrevInSection }}
-          <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
-        {{ end }}
-        {{ with .NextInSection }}
-          <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
-        {{ end }}
-    </div>
-</aside>
+
+  <aside id="meta" class="col align-self-end mt-5">
+      <div>
+      <section>
+        <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+        <h5 id="wordcount"> {{ .WordCount }} Words </h5>
+      </section>
+      
+      </div>
+      <div>
+          {{ with .PrevInSection }}
+            <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+          {{ end }}
+          {{ with .NextInSection }}
+            <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+          {{ end }}
+      </div>
+  </aside>
+</div>
+</div>
 {{ end }}

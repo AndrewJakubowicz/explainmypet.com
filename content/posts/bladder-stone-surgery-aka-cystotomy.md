@@ -25,7 +25,11 @@ tl;dr: We make an incision through your pets tummy to access the bladder. The bl
 ## Taking care of your pet post surgery
 You are probably going to recieve some pain medication to give to your pet.
 Complications are unlikely, but it is important to know the signs of what to look for and contact your vet or emergency centre if you notice any of:
-* 
+* Persistent bloody urine
+* Leaking from the suture site 
+* Excessive straining to urinate/ unable to urinate 
+* Puss 
+
 
 
 

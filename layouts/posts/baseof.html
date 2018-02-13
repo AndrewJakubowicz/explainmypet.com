@@ -8,6 +8,7 @@
   </head>
 
   <body>
+    {{ partialCached "nav.html" . }}
 
     {{ block "main" . }}
       <!-- The part of the page that begins to differ between templates -->

@@ -1,0 +1,25 @@
+html, 
+body {
+    height: 100%;
+}
+
+.drop-shadow {
+  -webkit-box-shadow: 0px -1px 11px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px -1px 11px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px -1px 11px 0px rgba(0,0,0,0.75);
+}
+
+body {
+
+  background-image: url(cartoons/meowers/pattern/outline/meowers_outline.svg),linear-gradient(to right, #1A237E, #283593);;
+  background-position: top left;
+  background-repeat: repeat;
+  background-position: top left;
+  background-size: auto, cover;
+  background-attachment: fixed;
+  -webkit-background-size: auto, cover;
+  -moz-background-size: auto, cover;
+  -o-background-size: auto, cover;
+  background-color: #283593;
+
+}

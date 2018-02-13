@@ -1,14 +1,12 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: SpyR1014/explainmypet.com
 
 media_folder: "/static/img/uploads" # Folder where user uploaded files should go
 public_folder: "img/uploads"
 
 publish_mode: editorial_workflow
-
-backend:
-  name: github
-  repo: SpyR1014/explainmypet.com
+  
 
 
 collections: # A list of collections the CMS should be able to edit

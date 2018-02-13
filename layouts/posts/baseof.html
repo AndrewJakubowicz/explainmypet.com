@@ -4,16 +4,16 @@
     
     <title>{{ .Site.Title }}</title>
 
-    {{ partialCached "meta.html" . }}
+    {{ partial "meta.html" . }}
   </head>
 
   <body>
-    {{ partialCached "nav.html" . }}
+    {{ partial "nav.html" . }}
 
     {{ block "main" . }}
       <!-- The part of the page that begins to differ between templates -->
     {{ end }}
     
-    {{ partialCached "bootstrap_js.html" . }}
+    {{ partial "bootstrap_js.html" . }}
   </body>
 </html>

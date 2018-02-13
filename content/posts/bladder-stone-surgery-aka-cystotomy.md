@@ -22,5 +22,10 @@ Let's take a hypothetical pet: Delorus the Daschund and talk about what will hap
 
 tl;dr: We make an incision through your pets tummy to access the bladder. The bladder is incised so that stones can be removed.
 
+## Taking care of your pet post surgery
+You are probably going to recieve some pain medication to give to your pet.
+Complications are unlikely, but it is important to know the signs of what to look for and contact your vet or emergency centre if you notice any of:
+* 
+
 
 

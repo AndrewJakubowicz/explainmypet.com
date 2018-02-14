@@ -1,5 +1,5 @@
 ---
-title: Bladder stone surgery (aka cystotomy)
+title: Cystotomy or bladder stone surgery basics
 date: 2018-02-13T05:22:30.470Z
 ---
 If your pet is suffering from bladder stones that are unable to be dissolved with a special diet or too big to pass, it is likely they will need to be surgically removed. In this article, you'll learn what a bladder stone surgery (or cystotomy) involves, and the signs your pet might show if recovery isn't going well.

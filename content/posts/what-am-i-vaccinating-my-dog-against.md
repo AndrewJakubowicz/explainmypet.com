@@ -14,12 +14,19 @@ Once an animal becomes infected with rabies there is no treatment. The disease c
 * Salivation and difficulty swallowing
 * Seizures
 * Vocalisation
+Eventually the affected animal will die.
 
 If your pet is unvaccinated and is exposed to a rabies suspect - eg was bitten by a potentially rabid wild animal, in most states of the USA, the law requires the pet to be euthanised immediately or to be quarantined for 6 months. 
 
 Vaccinating against rabies is extremely important both for the sake of your pet and to protect you and your family from a deadly and irreversible disease. In the USA rabies vaccination is mandated by law. 
 
 ## Distemper 
+Distemper is an extremely contagious virus seen in dogs. Your dog can catch the virus from other affected dogs or wildlife when they sneeze or cough, from their mother if she is infected or from sharing food, water and an environment in general with affected animals. 
+The body system victims of distemper virus include the respiraotry, digestive and neurological systems. This causes signs such as:
+* Discharge coming from the eyes and nose
+* Coughing 
+* Vomiting
+* Neurological signs - these may include strange behaviours such as 
 
 ## Parvovirus
 
@@ -30,11 +37,17 @@ The non-core vaccinations are those vaccines that are only required if you feel 
 
 ## Leptospirosis
 
-## Bordatella, Parainfluenza & Canine influenza
+## Kennel cough/ canine infectious tracheobronchitis: Bordatella & Parainfluenza
+
+## Canine influenza
 
 ## Lyme disease
 
 ## Rattlesnake
 
 ## 
+
+### Bibliography/ further reading
+* American Veterinary Medical Association: https://www.avma.org/public/PetCare/Pages/Canine-Distemper.aspx
+
 

@@ -31,12 +31,16 @@ Age of onset of clinical signs is between 3 months to 3.5 years of age.
 * Provide stepped access to heights so your cat doesn't have to make big jumps to access high areas. 
 * Ensure litter tray, food and water are in easy to access places.  
 * Provide opportunities for activity like playing with laser pointers, providing cat towers and hiding food to encourage foraging. Encouraging your cat to stay active helps to maintain muscle mass around the joints which helps to stabilise them and minimise the pain associated with arthritis. Think of this like physiotherapy. One idea is to feed your cat on a step, so that they have to put weight on their hindlimbs, this builds strength in their back legs without exposing them to excessive impact. 
+* There are special diets available to help improve the signs of OA. These include: "Hill's j/d feline" and Royal Canin "Medi-Cal feline mobility support".  
 
 ### Diet
-* Feed your cat a diet rich in omega-3 fatty acids
+* Feed your cat a diet rich in omega-3 fatty acids. Omega 3 fatty acids have an anti-inflammatory effect. Omega-3 fatty acids also can affect coagulation so should not be used if your pet has a bleeding defect or is on other medications that reduce clotting abilities. 
 * Weight reduction - it is extremely important that your cat is at their ideal body weight to avoid placing excessive, unecessary load on their joints. 
-* Glucosamine and chondroitin - The studies investigating the effectiveness of glucosamine and chondroitin are conflicting, with no convincing evidence to back them up. However, andectodal reports of success have been reported 
+* Glucosamine and chondroitin - The studies investigating the effectiveness of glucosamine and chondroitin are conflicting, with no convincing evidence to back them up. However, andectodal reports of success have been reported. GLucosamine is  
 * Green lipped mussel extract (GLME) is another neutraceutical shown to be of some benefit to dogs with osteoarthritis. 
+
+### Acupuncture
+While there is no solid evidence showing acupunture is beneficial in cats, it may be worth a try. 
 
 ### Medical therapy 
 * NSAIDs: NSAIDs stands for "Non Steroidal Anti-infalmmatory". You may be familiar with one commonly used in humans: ibuprofen. 

@@ -47,6 +47,13 @@ Meloxicam has been shown to be very effective in the controlling chronic pain in
 
 Alternative options to chronic pain management include the use of opioids such as buprenorphine.
 
+Polysulfated Glycosaminoglycans (Adequan, Chondroprotec)
+Polysulfated glycosaminoglycans are given as an injection to your pet. They work by reducing inflammation in the joints and increasing the viscosity of joint fluid, providing better cushioning. 
+
+Adverse effects: use of these may inhibit blood clotting, this means that if your pet needs surgery etc, the injections should be temporarily discontinued. It should also not be used along side other drugs (NSAIDs or anticoagulants).
+
+Using medication such as this in cats is extra-label as there is a lack of studies supporting its use.  
+
 ## Surgical management
 
 ### Femoral head and neck excision

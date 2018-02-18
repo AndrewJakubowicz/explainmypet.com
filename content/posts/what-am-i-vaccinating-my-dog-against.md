@@ -28,6 +28,9 @@ The body system victims of distemper virus include the respiraotry, digestive an
 * Vomiting
 * Neurological signs - these may include strange behaviours such as seizures, circling, salivating, muscle twitching and paralysis. 
 * Thickening of the paw pads
+Unfortunately, distemper virus often ends in death.
+
+Unfortunately, there is no treatment for distemper virus. If your dog catches it, your vet will only be able to provide supportive care. In the unusual event where your dog makes a recovery, they will very likely be left with permanent neurological damage. It is extremely important to vaccinate all dogs against this disease and ensure their boosters are always up to date. 
 
 
 ## Parvovirus

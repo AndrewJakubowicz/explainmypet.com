@@ -26,7 +26,9 @@ The body system victims of distemper virus include the respiraotry, digestive an
 * Discharge coming from the eyes and nose
 * Coughing 
 * Vomiting
-* Neurological signs - these may include strange behaviours such as 
+* Neurological signs - these may include strange behaviours such as seizures, circling, salivating, muscle twitching and paralysis. 
+* Thickening of the paw pads
+
 
 ## Parvovirus
 

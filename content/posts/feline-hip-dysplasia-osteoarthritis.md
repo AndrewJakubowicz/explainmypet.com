@@ -5,14 +5,14 @@ date: 2018-02-17T23:22:58.946Z
 
 Today we'll cover osteoarthritis caused by hip dysplasia.
 __Osteoarthritis__ is the degeneration of joint cartilage as well as the bone.
-__Hip dysplasia__ is a failure for the hip joint to develop properly.
+__Hip dysplasia__ is when the hip joint has an abnormal structure, commonly due to genetics.
 
 Osteoarthritis develops slowly due to the joint not working as it should.
 Slowly cartilage damage accumulates as well as bone damage.
 The cartilage helps the joint move smoothly and acts as shock absorption.
-As damage builds up, more damage is caused, and using the joint becomes extremely painful.
+As damage builds up, using the joint becomes extremely painful.
 
-The osteoarthritis must be managed with medication, or salvaged through surgery.
+To control the pain associated with osteoarthritis, it should be managed with lifestyle changes paired with medication or salvage surgery.
 
 
 ## Which cat breeds are prone to hip dysplasia?
@@ -28,7 +28,7 @@ Purebred cats are more commonly affected than their mixed counterparts.
 * Lameness in the hindlimbs
 * Reduced activity
 * Poor grooming
-* Behavioural changes, like increased aggression
+* Behavioural changes eg. increased aggression
 * Weight loss
 * Decreased appetite
 * Walking in a crouched position
@@ -42,12 +42,10 @@ These clinical signs tend to appear between 3 months of age to 3.5 years of age.
 
 ### Management at home
 
-Your cat should maintain a moderatively active lifestyle, with high hip stress activities reduced.
+Since most cats enjoy being up high, you can help them out with getting there by providing stepped access so they don't have to make big jumps that can be painful on their joints.
+Keep the litter tray, food and water in easy to access places.
 
-Your cat shouldn't be jumping to high places, with preferable stepped access.
-The litter tray, food and water must be easy to access.
-
-Your cat should still participate in laser pointer play, playing in the cat tower and foraging for hidden food. Activity maintains muscle mass around the joints, stabilising the joint and minimising pain.
+Your cat should get regular excercise. This could be with laser pointer play, foraging for hidden food and using their cat tower. Activity maintains muscle mass around the joints, helping to stabilise the joint and minimise pain.
 
 An idea is to feed your cat on a step. Therefore they must place some weight on their back legs without exposing them to excessive impact.
 

@@ -60,7 +60,9 @@ It is thought that lighter animals such as small dogs and cats are likely to hav
 
 The surgical success of this procedure can be unpredictable. One study showed graded owner satisfaction following this procedure as: 38% good, 20% satisfactory and 42% poor. 
 
- 
+### Total hip replacement
+This procedure is exactly what it sounds like: a total replacement of the hip joint using a man-made joint instead. Along the same rationale as the FHNE, this procedure also eliminates the source of pain (OA in the hip joint), but this time rather than removing it and relying only on the surrounding musculature to maintain stability, the joint is replaced with a man-made alternative, hopefully retaining the original stability provided by the bones. 
+
 
   
 

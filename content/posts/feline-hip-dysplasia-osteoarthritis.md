@@ -41,6 +41,27 @@ Age of onset of clinical signs is between 3 months to 3.5 years of age.
 ### Medical therapy 
 * NSAIDs: NSAIDs stands for "Non Steroidal Anti-infalmmatory". You may be familiar with one commonly used in humans: ibuprofen. 
 
-NSAIDs are fantastic for osteoarthritis because they reduce both pain and inflammation by 
+NSAIDs are fantastic for osteoarthritis because they reduce both pain and inflammation by blocking the inflammatory pathway. However, the unfortunate thing about this is that they also block some other important pathways, resulting in some undesirable side-effects.
+
+Meloxicam has been shown to be very effective in the controlling chronic pain in cats suffering osteoarthritis. While Meloxicam may be used long-term in other countries,unfortunately, it is not licensed for long term use in cats in the USA. If your cat is on an NSAID like meloxicam long term, they should recieve routine blood tests to monitor their kidney and liver function. THis is so your vet can adjust the dose given accordingly to try to keep your pet's internal organs as safe as possible.
+
+Alternative options to chronic pain management include the use of opioids such as buprenorphine.
+
+## Surgical management
+
+### Femoral head and neck excision
+A femoral head and neck excision involves removing the top part of the femur that sits in the hip joint. This removes the source of pain in hip dysplasia and OA entirely. After this procedure, instead of having a bony joint connecting the hindlimbs to the pelvis, the cat's hip muscles are now responsible for supporting the joint instead. 
+
+Possible complications following this procedure include:
+* shortening of the limbs
+* Limited range of motion in the hip joints
+
+It is thought that lighter animals such as small dogs and cats are likely to have more success with a surgery like this as opposed to thier larger animal counterparts (larger dogs). 
+
+The surgical success of this procedure can be unpredictable. One study showed graded owner satisfaction following this procedure as: 38% good, 20% satisfactory and 42% poor. 
+
+ 
+
+  
 
 

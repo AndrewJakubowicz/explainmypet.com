@@ -63,6 +63,11 @@ The surgical success of this procedure can be unpredictable. One study showed gr
 ### Total hip replacement
 This procedure is exactly what it sounds like: a total replacement of the hip joint using a man-made joint instead. Along the same rationale as the FHNE, this procedure also eliminates the source of pain (OA in the hip joint), but this time rather than removing it and relying only on the surrounding musculature to maintain stability, the joint is replaced with a man-made alternative, hopefully retaining the original stability provided by the bones. 
 
+Studies have reported excellent outcomes with these procedures. In comparison with FNHE, cats will usually function better after a total hip replacement over the FHNE. 
+
+### So should I choose surgical or medical management?
+According to the research, it is promising that a cat will respond to medical management alone. You may decide to try medicla management and elect surgical management if the medical is unsuccessful. 
+
 
   
 

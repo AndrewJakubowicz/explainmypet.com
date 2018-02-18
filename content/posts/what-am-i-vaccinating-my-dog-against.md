@@ -33,18 +33,20 @@ Unfortunately, distemper virus often ends in death.
 Unfortunately, there is no treatment for distemper virus. If your dog catches it, your vet will only be able to provide supportive care. In the unusual event where your dog makes a recovery, they will very likely be left with permanent neurological damage. It is extremely important to vaccinate all dogs against this disease and ensure their boosters are always up to date. 
 
 
-## Parvovirus
-Parvovirus is a virus that commonly affects young puppies or unvaccinated dogs. It is a highly contagious disease that is spread when infected feces comes into contact with the dog's mouth. Sounds weird, but dogs dogs don't really discriminate what goes in their mouth! The viral particles are extremelely resistant in the environement and even resistant to many disinfectants, meaning it can be very difficult to control. 
+## Parvovirus "Parvo"
+Parvovirus is a virus that commonly affects young puppies or unvaccinated dogs. It is a highly contagious disease that is spread when infected feces comes into contact with the dog's mouth. Sounds weird, but dogs dogs don't really discriminate what goes in their mouth! The viral particles are extremelely resistant in the environement and even resistant to many disinfectants, meaning it can be very difficult to control. Viral particles can contaminate objects like collars, food bowls and be spread on people's clothing and shoes. 
 
-Once parvovirus infects your dog, it attacks rapidly dividing cells. These cells are found in the intestines, bone marrow and lymphoid tissues. This causes signs such as:
+Once parvovirus infects your dog, it attacks rapidly dividing cells. These cells are found in the intestines, bone marrow. This causes signs such as:
 * Vomiting and severe, bloody diarrhoea - due to destruction of cells in the intestines. 
-* Decreased white blood cells - due to destruction of bone marrow.
+* Decreased white blood cells (these cells are involved in the immune system) - due to destruction of bone marrow.
 
-With intense, supportive veterinary care, it is possible for your dog can make a full recovery from a parvovirus infection. However, this is usually a uncomfortable and expensive process.
+There is no specific treatment for parvovirus. With intense, supportive veterinary care, it is possible for your dog can make a full recovery from a parvovirus infection. However, this is usually a very expensive process with no certainty of success.
 
-Parvovirus is a horrible, potentially fatal disease with no specific treatment. In light of this, every dog should be vaccinated.
+Parvovirus is a common, horrible and potentially fatal disease with no specific treatment. In light of this, every dog should be vaccinated.
 
-## Adenovirus (Canine hepatitis)
+## Canine Adenovirus type 2(Canine hepatitis)
+
+
 
 # Non-core vaccines
 The non-core vaccinations are those vaccines that are only required if you feel they fit with your dog's lifestyle. 

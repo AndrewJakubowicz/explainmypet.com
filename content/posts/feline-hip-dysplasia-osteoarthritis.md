@@ -99,32 +99,26 @@ In cats there is a lack of studies supporting its use.
 
 #### Total hip replacement
 
-This surgery replaces the hip joint with a human made joint. The source of pain is removed, and the artificial joint should mimic the original bones.
+This surgery replaces the hip joint with a human made joint. The source of pain is removed, and the artificial joint mimics the original joint.
 
 #### Femoral head and neck excision
 
-This involves removing the top part of the femur which sits in the hip joint. If a hip joint is a ball and socket, this is the removal of the ball.
+This is a cheaper alternative to the total hip replacement.
 
-This removes the pain, but leaves the cat requiring only muscles to support the joint.
+Involves removing the top part of the femur which sits in the hip joint. If a hip joint is a ball and socket, this surgery is the removal of the ball.
 
-It is thought that lighter animals such as small dogs and cats are likely to have more success with a surgery like this as opposed to their larger animal counterparts (larger dogs). 
+Pain is removed, but only muscles are left supporting the joint.
 
-The surgical success of this procedure can be unpredictable. One study showed graded owner satisfaction following this procedure as: 38% good, 20% satisfactory and 42% poor. 
-
-
-Studies have reported excellent outcomes with these procedures. In comparison with FNHE, cats will usually function better after a total hip replacement over the FHNE. 
-
-
-
-Possible complications following this procedure include:
-* shortening of the limbs
-* Limited range of motion in the hip joints
+Although excellent outcomes are possible in both procedures, cats are usually better off after a total hip replacement.
 
 ### So should I choose surgical or medical management?
 
+Lighter animals such as small dogs and cats are likely to have more success with surgery.
 
+Surgery has risks, and can sometimes go wrong.
 
-According to the research, it is promising that a cat will respond to medical management alone. You may decide to try medicla management and elect surgical management if the medical is unsuccessful. 
+It is promising that a cat will respond to medical management alone, leaving surgery as a backup if the medical management fails.
+
 
 
   

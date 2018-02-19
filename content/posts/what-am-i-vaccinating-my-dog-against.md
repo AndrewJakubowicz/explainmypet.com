@@ -110,11 +110,28 @@ Depending on where you live, your dog may or may not be likely to be exposed to 
 
 
 ## Lyme disease
-Lyme disease is caused by the bacteria: _Borrelia burgdorferi_. 
+Lyme disease is caused by the bacteria: _Borrelia burgdorferi_. Your dog may get lyme disease through the bite of a tick, most commonly the deer tick. 
 
-## Rattlesnake
+If you live in an area where lyme disease is found and your dog has access to regions where there may be ticks, you should consider vaccinating your dog against lyme disease. Talk to your local veterinarian to find out if a lyme disease vaccine is a good decision for your pet. 
 
-## 
+Unlike in humans, dogs rarely develop the characteristic bullseye type rash. Instead, the signs of lyme disease that might be seen in dogs include:
+* Intermittent lameness that keeps recurring 
+* Fever
+* Swollen lymph nodes
+* Hot and painful joints 
+* Renal failure - this is usually fatal
+
+Lyme disease is treated with a course of antibiotics. Chronic disease in dogs, unlike in humans is rare.
+
+So should you vaccinate your dog against lyme disease? In areas where lyme disease is local, it is a good idea. 
+
+You cannot catch lyme disease directly from your dog. To be infected with lyme disease, you must be bitten by a tick carrying the bacteria. The only risk your dog poses to you in regards to lyme disease is serving as a source of ticks if they bring them in on their coat. 
+
+## Rattlesnake (crotalus atrox)
+
+Although called a vaccine, this vaccination should not be considered full-proof protection against rattlesnake bites. It's purpose is to prolong the effect of rattle-snake venom, allowing you time to seek prompt veterinary care for your dog. Getting bitten by a rattle-snake should still be considered a veterinary emergency! Even if your dog has been vaccinated! 
+
+You may consider vaccinating your pet against for rattlesnakes if you live in an area where snakes are common and your dog is at a fairly high risk of getting bitten and you live far enough away that seeking veterinary care will be prolonged by travel time. The rattle snake vaccine is only intended to buy time and will not protect against the venom.  
 
 ### Bibliography/ further reading
 * American Veterinary Medical Association: https://www.avma.org/public/PetCare/Pages/Canine-Distemper.aspx

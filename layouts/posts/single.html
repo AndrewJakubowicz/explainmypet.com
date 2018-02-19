@@ -1,31 +1,32 @@
 {{ define "main" }}
 <div class="drop-shadow container h-100 bg-light">
-  <div class="row h-100">
-    <section id="main" class="col-12">
+  <div class="row">
+    <section id="main" class="offset-md-2 col-md-8">
       <h1 id="title" class="mt-5 mb-5">{{ .Title }}</h1>
 
-      <article id="row bg-light h-100">
+      <article id="row bg-light h-100 pl-2 pr-2">
           {{ .Content }}
       </article>
     </section>
-
-  <aside id="meta" class="col align-self-end mt-5">
-      <div>
-      <section>
-        <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
-        <h5 id="wordcount"> {{ .WordCount }} Words </h5>
-      </section>
-      
-      </div>
-      <div>
-          {{ with .PrevInSection }}
-            <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
-          {{ end }}
-          {{ with .NextInSection }}
-            <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
-          {{ end }}
-      </div>
-  </aside>
-</div>
+  </div>
+  <div class="row">
+    <aside id="meta" class="col align-self-end mt-5">
+        <div>
+        <section>
+          <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+          <h5 id="wordcount"> {{ .WordCount }} Words </h5>
+        </section>
+        
+        </div>
+        <div>
+            {{ with .PrevInSection }}
+              <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+            {{ end }}
+            {{ with .NextInSection }}
+              <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+            {{ end }}
+        </div>
+    </aside>
+  </div>
 </div>
 {{ end }}

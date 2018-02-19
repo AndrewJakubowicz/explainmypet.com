@@ -1,6 +1,30 @@
-html, 
-body {
+html {
     height: 100%;
+}
+
+body {
+  font-size: 1.2rem;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-family: inherit;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+li p {
+  margin-bottom: 1.4rem;
+  line-height: 1.7rem;
+}
+
+li {
+  margin-bottom: 1.4rem;
+  line-height: 1.7rem;
+}
+
+p {
+  line-height: 1.7rem;
+  margin-bottom: 2rem;
 }
 
 .drop-shadow {

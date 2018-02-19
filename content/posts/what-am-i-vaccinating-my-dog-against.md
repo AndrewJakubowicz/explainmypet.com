@@ -76,12 +76,11 @@ If your dog becomes infected with leptospirosis, it can display a variety of dif
 * some dogs don't show any signs or recover after only showing mild signs. 
 * Other dogs can suffer from severe disease resulting in liver and kidney failure. With these dogs you may see jaundice (yellow skin/gums/eyes), vomiting, diarrhoea, changes in urination habits. Blood in the vomit or feces and red dots on the gums caused by uncontrolled bleeding. 
 
+Leptospirosis is treated with supportive care and antibiotics, although it is not always posssible for animals to make a complete recovery. Many animals suffer from permanent liver and/or kidney damage. 
 
+Leptospirosis is a zoonosis, meaning it can be transmitted from your dog to humans. Although this is uncommon, it is still important to be aware of this extra risk.
 
-Leptospirosis is a zoonosis, meaning it can be transmitted from your dog to humans.
-
-Leptospirosis can be a very serious disease, which is why, in areas where it is common it can be a very good idea to vaccinate against it.  
-
+Leptospirosis can be a very serious disease and combined with its potential to be passed onto humans is why, in areas where the bacteria is common it can be a very good idea to vaccinate against it. Vaccines are available for the most commonly encountered strains of leptospirosis.
 
 ## Kennel cough/ canine infectious tracheobronchitis: Bordatella & Parainfluenza
 

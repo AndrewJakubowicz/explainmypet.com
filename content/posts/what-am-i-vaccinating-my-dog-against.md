@@ -82,11 +82,28 @@ Leptospirosis is a zoonosis, meaning it can be transmitted from your dog to huma
 
 Leptospirosis can be a very serious disease and combined with its potential to be passed onto humans is why, in areas where the bacteria is common it can be a very good idea to vaccinate against it. Vaccines are available for the most commonly encountered strains of leptospirosis.
 
+Although the leptospirosis vaccine does not protect against all the different types of leptospira bacteria, vaccines have been developed to protect against the most common types. 
+
 ## Kennel cough/ canine infectious tracheobronchitis: Bordatella & Parainfluenza
 
+Bordatella and parainfluenza, although separate vaccines, help to control the same disease: Kennel cough aka canine infectious tracheobronchitis. This is why they will be discussed together, if you are vaccinating against one, you should be vaccinating against the other too. 
 
+Kennel cough, as the name suggests is a respiratory tract disease. Canine infecitous tracheobronchitis just means inflammation of the trachea (the big windpipe leading to the lungs) and bronchi (the smaller little pipes the lungs branch into before ending as the alveoli). 
+
+Signs of kennel cough are much like the signs of the flu we would see in humans and may include:
+* coughing
+* fever
+* weight loss and loss of appetite
+* discharge from the eyes and nose
+it also has the potential to lead to pneumonia. 
+
+LOTs of different pathogens (viruses and bacteria that cause disease) can cause kennel cough like signs and so it is important to remember that even if a dog has been vaccinated, while the risk of disease is reduced, it may not be totally protective.
+
+Your dog should be vaccinated against kennel cough if they have exposure to other dogs (eg on walks, at kennels, dog parks etc). Many kennels or groomers will require a dog to be vaccinated against kennel cough before they are allowed to be boarded. With such a contagious disease, imagine how badly things could go in a kennel if there was an outbreak of such a disease. Imagine you are living in a share house with 5 other people, if you catch the flu, chances are it is only a matter of time before your housemates succum to the same fate! Even though, like the human flu vaccine, it may noto be 100% effective (and no vaccine ever is), I'd much rather get a less bad version of the flu than every one get full blown flu with absolutely no prortection! 
 
 ## Canine influenza
+
+
 
 ## Lyme disease
 

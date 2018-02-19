@@ -44,8 +44,23 @@ There is no specific treatment for parvovirus. With intense, supportive veterina
 
 Parvovirus is a common, horrible and potentially fatal disease with no specific treatment. In light of this, every dog should be vaccinated.
 
-## Canine Adenovirus type 2(Canine hepatitis)
+## Canine Adenovirus (Canine hepatitis)
 
+Adenovirus is spread between dogs when contaminated saliva, feces or urine come into contact with another dog's mouth. Once infected, the virus spreads in the bloodstream, throughout the body. As well as affecting the blood vessels, the virus also affects the liver, kidneys, spleen and lungs, causing bleeding and damage to these organs.  
+
+A dog infected with adenovirus could show disease in the following ways:
+* Sudden death
+* Increased redness and/or red dots over the gums - caused by bleeding from small blood vessels. 
+* Jaundice - when there is a yellow tinge to the skin, eyes and gums
+* Lack of appetite +/- vomiting
+
+Like with the other viruses mentioned, there is no specific treatment, but dogs may recover with supportive veterinary care. 
+
+Sometimes dogs who recover, will have permanently blue looking eyes 'blue eye'. This is caused by the virus forming complexes with the dog's immune system which clog up the draining blood vessels of the eye, resulting in fluid build up in the cornea, the usually transparent outer layer of the eye.
+
+There are two types of adenoviruses - CAV-1 and CAV-2. CAV-1 causes the disease process we just discussed and CAV-2 causes respiratory disease and is classified as one of the viruses implicated in the kennel cough complex. The CAV-2 vaccine is the most comonly used vaccine 9it does not cause blue eye) and provids protection against both CAV-1 and CAV-2. 
+
+The vaccination against adenovirus has been very successful
 
 
 # Non-core vaccines
@@ -65,5 +80,6 @@ The non-core vaccinations are those vaccines that are only required if you feel 
 
 ### Bibliography/ further reading
 * American Veterinary Medical Association: https://www.avma.org/public/PetCare/Pages/Canine-Distemper.aspx
+* Merck veterinary manual (https://www.merck-animal-health-usa.com/dp/3)
 
 

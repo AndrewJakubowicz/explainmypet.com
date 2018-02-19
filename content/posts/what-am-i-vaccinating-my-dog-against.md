@@ -2,6 +2,8 @@
 title: What am I vaccinating my dog against?
 date: 2018-02-18T04:04:25.255Z
 ---
+Vaccinations can be overwhleming, there is a lot of them and for some of them (the non-cores) the decision of whether or not to vaccinate is left up to you. So what exactly are the diseases you are vaccinating you pooch against and how do you decide which of the optional ones are going to fit your dog's lifestyle?  
+
 # Core Vaccines 
 The core vaccines include DA2PP (Distemper virus, adenovirus-2, parvovirus and parainfluenza)***** and Rabies. Depending on where you live, leptospirosis may also be considered a core vaccination. For example, in California, leptospirosis is considered to be a core vaccine.
 
@@ -134,7 +136,9 @@ Although called a vaccine, this vaccination should not be considered full-proof 
 You may consider vaccinating your pet against for rattlesnakes if you live in an area where snakes are common and your dog is at a fairly high risk of getting bitten and you live far enough away that seeking veterinary care will be prolonged by travel time. The rattle snake vaccine is only intended to buy time and will not protect against the venom.  
 
 ### Bibliography/ further reading
-* American Veterinary Medical Association: https://www.avma.org/public/PetCare/Pages/Canine-Distemper.aspx
+* American Veterinary Medical Association: https://www.avma.org/public/PetCare/Pages/Canine-Distemper.aspx, https://www.avma.org/public/PetCare/Pages/Leptospirosis.aspx
 * Merck veterinary manual (https://www.merck-animal-health-usa.com/dp/3)
+* UC Davis veterinary medicine (http://www.vetmed.ucdavis.edu/whatsnew/article.cfm?id=1883)
+
 
 

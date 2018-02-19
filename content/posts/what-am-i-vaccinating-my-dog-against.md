@@ -60,11 +60,10 @@ Sometimes dogs who recover, will have permanently blue looking eyes 'blue eye'. 
 
 There are two types of adenoviruses - CAV-1 and CAV-2. CAV-1 causes the disease process we just discussed and CAV-2 causes respiratory disease and is classified as one of the viruses implicated in the kennel cough complex. The CAV-2 vaccine is the most comonly used vaccine 9it does not cause blue eye) and provids protection against both CAV-1 and CAV-2. 
 
-The vaccination against adenovirus has been very successful
-
+Thanks to the CAV vaccine, cases of this disease are not often seen today. Like with the other diseases mentioned it is very improtant that all dogs recieve this vaccine to protect against this potentially fatal disease. 
 
 # Non-core vaccines
-The non-core vaccinations are those vaccines that are only required if you feel they fit with your dog's lifestyle. 
+The non-core vaccinations are a group of vaccines not considered essential for every pet dog. THey are only required if they fit with your dog's lifestyle.  
 
 ## Leptospirosis
 

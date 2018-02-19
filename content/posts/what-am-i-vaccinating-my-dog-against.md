@@ -102,10 +102,15 @@ LOTs of different pathogens (viruses and bacteria that cause disease) can cause 
 Your dog should be vaccinated against kennel cough if they have exposure to other dogs (eg on walks, at kennels, dog parks etc). Many kennels or groomers will require a dog to be vaccinated against kennel cough before they are allowed to be boarded. With such a contagious disease, imagine how badly things could go in a kennel if there was an outbreak of such a disease. Imagine you are living in a share house with 5 other people, if you catch the flu, chances are it is only a matter of time before your housemates succum to the same fate! Even though, like the human flu vaccine, it may noto be 100% effective (and no vaccine ever is), I'd much rather get a less bad version of the flu than every one get full blown flu with absolutely no prortection! 
 
 ## Canine influenza
+Another flu like disease very similar to kennel cough. It is caused by a virus and is highly contagious. It is spread in a very ismilar way to kennel cough and the human flu - through sneezing, coughing and contact with infected animals or with contaminated objects. 
 
+Clinical signs are very similar to kennel cough: coughing, sneezing, runny eyes and nose, fever. There is also the possiblity of further complications such as pneumonia. 
+
+Depending on where you live, your dog may or may not be likely to be exposed to canine influenza. Talk to your local vet to see if vaccinating against influenza is the right choice for your pet.
 
 
 ## Lyme disease
+Lyme disease is caused by the bacteria: _Borrelia burgdorferi_. 
 
 ## Rattlesnake
 

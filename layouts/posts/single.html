@@ -9,23 +9,22 @@
       </article>
     </section>
   </div>
-  <div class="row">
-    <aside id="meta" class="col align-self-end mt-5">
-        <div>
-        <section>
-          <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
-          <h5 id="wordcount"> {{ .WordCount }} Words </h5>
+  <div class="row mt-5">
+    <aside id="meta" class="text-right mt-5 col-12">
+        <section class="">
+          <p id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </p>
+          <p id="wordcount"> {{ .WordCount }} Words </p>
         </section>
-        
-        </div>
-        <div>
+      
+        <!-- These link to articles on either side -->
+        <!-- <div>
             {{ with .PrevInSection }}
               <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
             {{ end }}
             {{ with .NextInSection }}
               <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
             {{ end }}
-        </div>
+        </div> -->
     </aside>
   </div>
 </div>

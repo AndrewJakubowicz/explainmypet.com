@@ -3,18 +3,43 @@ html {
 }
 
 body {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+  font-family: 'Scope One', serif;
+}
+
+#title {
+  font-size: 2rem;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-  font-family: inherit;
+  font-family: 'Lora', serif;
   font-weight: 300;
-  line-height: 1.5;
+  line-height: 1.7;
+  margin-bottom: 1.7rem;
+}
+
+h6 {
+  font-size: 1.3rem;
+}
+h5 {
+  font-size: 1.4rem;
+}
+h4 {
+  font-size: 1.5rem;
+}
+h3 {
+  font-size: 1.6rem;
+}
+h2 {
+  font-size: 1.7rem;
+}
+h1 {
+  font-size: 1.8rem;
 }
 
 li p {
   margin-bottom: 1.4rem;
-  line-height: 1.7rem;
+  line-height: 1.6rem;
 }
 
 li {

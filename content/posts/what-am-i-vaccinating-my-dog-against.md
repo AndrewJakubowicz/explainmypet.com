@@ -65,9 +65,27 @@ Thanks to the CAV vaccine, cases of this disease are not often seen today. Like 
 # Non-core vaccines
 The non-core vaccinations are a group of vaccines not considered essential for every pet dog. THey are only required if they fit with your dog's lifestyle.  
 
-## Leptospirosis
+## Leptospirosis "lepto"
+Leptospirosis is an illness caused by the genus of bacteria: _leptospira_. The bacteria lives in soil water all over the world, but mainly in areas that are warm and humid. 
+
+There are many ways your dog might catch lepto. Your dog is at risk of lepto if they spend time around from water bodies like rivers, lakes and ponds. They can also get it from coming into contact with infected urine, which could be from wildlife or farm animals. They may get it from their mother, if she is infected or through a bite from an infected animal. 
+
+In many areas where lepto is commong, such as in California, it is considered part of the core vaccinations. This is because it is so difficult to characterise whether or not an animal is at risk. Even if a dog never leaves the backyard, it still could be exposed to lepto through contact with rodents or other wildlife. 
+
+If your dog becomes infected with leptospirosis, it can display a variety of different signs:
+* some dogs don't show any signs or recover after only showing mild signs. 
+* Other dogs can suffer from severe disease resulting in liver and kidney failure. With these dogs you may see jaundice (yellow skin/gums/eyes), vomiting, diarrhoea, changes in urination habits. Blood in the vomit or feces and red dots on the gums caused by uncontrolled bleeding. 
+
+
+
+Leptospirosis is a zoonosis, meaning it can be transmitted from your dog to humans.
+
+Leptospirosis can be a very serious disease, which is why, in areas where it is common it can be a very good idea to vaccinate against it.  
+
 
 ## Kennel cough/ canine infectious tracheobronchitis: Bordatella & Parainfluenza
+
+
 
 ## Canine influenza
 

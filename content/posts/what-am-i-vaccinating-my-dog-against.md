@@ -1,5 +1,5 @@
 ---
-title: What am I vaccinating my dog against?
+title: What are you vaccinating your dog against?
 date: 2018-02-18T04:04:25.255Z
 ---
 Vaccinations can be overwhleming, there a lot of them, and you need to decide which non-core vaccines you want. What exactly are the diseases you're vaccinating your pooch against, and how do you decide which of the optional ones fit your dog's lifestyle?

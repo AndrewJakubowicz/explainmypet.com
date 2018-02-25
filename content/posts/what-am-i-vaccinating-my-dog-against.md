@@ -223,7 +223,7 @@ The rattlesnake vaccine is only intended to give time and will not protect again
 
 * American Veterinary Medical Association: [Canine-Distemper](https://www.avma.org/public/PetCare/Pages/Canine-Distemper.aspx), [Leptospirosis](https://www.avma.org/public/PetCare/Pages/Leptospirosis.aspx)
 * [Merck veterinary manual](https://www.merck-animal-health-usa.com/dp/3)
-* (UC Davis veterinary medicine)[http://www.vetmed.ucdavis.edu/whatsnew/article.cfm?id=1883]
+* [UC Davis veterinary medicine](http://www.vetmed.ucdavis.edu/whatsnew/article.cfm?id=1883)
 
 
 

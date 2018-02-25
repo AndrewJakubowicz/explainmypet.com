@@ -62,7 +62,7 @@ In the unusual event where your dog makes a recovery, they'll likely be left wit
 Vaccinate all dogs against this disease and ensure their boosters are always up to date. 
 
 
-## Parvovirus "Parvo"
+## Parvovirus or _Parvo_
 
 Parvovirus is a virus that commonly affects young puppies or unvaccinated dogs.
 It's highly contagious and is spread when infected feces comes into contact with your dog's mouth.
@@ -82,7 +82,7 @@ This is usually a very expensive process with no certainty of success.
 Parvovirus is a common, horrible and potentially fatal disease with no specific treatment. 
 
 
-## Canine Adenovirus (Canine hepatitis)
+## Canine Adenovirus _(Canine hepatitis)_
 
 Adenovirus is spread between dogs when contaminated saliva, feces or urine come into contact with another dog's mouth. Once infected, the virus spreads in the bloodstream, throughout the body. It affects the blood vessels, liver, kidneys, spleen and lungs, causing bleeding and damage to these organs.  
 
@@ -110,7 +110,7 @@ Like with the other diseases mentioned it is very important that all dogs reciev
 Non-core vaccinations are a group of vaccines not considered essential for every pet dog. They are only required based on your dog's lifestyle.
 
 
-## Leptospirosis "lepto"
+## Leptospirosis or _lepto_
 
 Leptospirosis is an illness caused by the genus of bacteria: _leptospira_. This bacteria lives in soil water all over the world, especially in warm and humid areas. 
 
@@ -141,7 +141,7 @@ Vaccines are available for most commonly encountered strains of leptospirosis.
 The leptospirosis vaccines have been developed to protect against the most common types. 
 
 
-## Kennel cough/ canine infectious tracheobronchitis: Bordatella & Parainfluenza
+## Kennel cough and Canine infectious tracheobronchitis: Bordatella & Parainfluenza
 
 Bordatella and parainfluenza, although separate vaccines, help control the same disease: "Kennel cough" or "canine infectious tracheobronchitis".
 If you are vaccinating against one, you should also vaccinate against the other. 
@@ -203,7 +203,7 @@ Chronic disease in dogs is rare.
 You cannot catch lyme disease directly from your dog. To be infected you must be bitten by a tick carrying the bacteria. The only risk your dog poses is by serving as a source of ticks if they bring them in on their coat. 
 
 
-## Rattlesnake (crotalus atrox)
+## Rattlesnake or _Crotalus Atrox_
 
 Although called a vaccine, this vaccination should not be considered full protection against rattlesnake bites.
 It's purpose is to prolong the effect of rattlesnake venom, allowing you time to seek emergency veterinary care for your dog.
@@ -219,11 +219,11 @@ The rattlesnake vaccine is only intended to give time and will not protect again
 
 
 
-### Bibliography/ further reading
+### Bibliography and further reading
 
 * American Veterinary Medical Association: [Canine-Distemper](https://www.avma.org/public/PetCare/Pages/Canine-Distemper.aspx), [Leptospirosis](https://www.avma.org/public/PetCare/Pages/Leptospirosis.aspx)
 * [Merck veterinary manual](https://www.merck-animal-health-usa.com/dp/3)
-* (UC Davis veterinary medicine)[http://www.vetmed.ucdavis.edu/whatsnew/article.cfm?id=1883]
+* [UC Davis veterinary medicine](http://www.vetmed.ucdavis.edu/whatsnew/article.cfm?id=1883)
 
 
 

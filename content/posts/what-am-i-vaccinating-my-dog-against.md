@@ -45,6 +45,7 @@ Your dog can catch the virus from:
 * Sharing food, water and the environment with infected animals.
 
 Distemper virus infects the respiratory, digestive and neurological systems, causing:
+
 * Discharge coming from the eyes and nose
 * Coughing 
 * Vomiting
@@ -70,6 +71,7 @@ In this time the virus spreads onto collars, food bowls, your clothes and shoes.
 
 When parvovirus infects your dog, it attacks rapidly dividing cells.
 These cells are found in the intestines and bone marrow causing:
+
 * Vomiting and severe, bloody diarrhoea
 * Decreased white blood cells the cells that are required by your dog's immune system
 
@@ -85,6 +87,7 @@ Parvovirus is a common, horrible and potentially fatal disease with no specific 
 Adenovirus is spread between dogs when contaminated saliva, feces or urine come into contact with another dog's mouth. Once infected, the virus spreads in the bloodstream, throughout the body. It affects the blood vessels, liver, kidneys, spleen and lungs, causing bleeding and damage to these organs.  
 
 A dog infected with adenovirus shows:
+
 * Sudden death
 * Increased redness and/or red dots over the gums - caused by bleeding from small blood vessels.
 * Jaundice - which is a yellow tinge to the skin, eyes and gums.
@@ -108,6 +111,7 @@ Non-core vaccinations are a group of vaccines not considered essential for every
 
 
 ## Leptospirosis "lepto"
+
 Leptospirosis is an illness caused by the genus of bacteria: _leptospira_. This bacteria lives in soil water all over the world, especially in warm and humid areas. 
 
 Your dog is at risk of lepto if they spend time around rivers, lakes and ponds. They can also get it from wildlifes' or farm animals' infected urine, or from a bite.
@@ -145,6 +149,7 @@ If you are vaccinating against one, you should also vaccinate against the other.
 Kennel cough is inflammation of the trachea (the big windpipe leading to the lungs) and bronchi (the smaller little pipes the lungs branch into before ending as alveoli).
 
 Signs are much like the signs of the flu we see in humans and may include:
+
 * coughing
 * fever
 * weight loss and loss of appetite
@@ -185,6 +190,7 @@ If you live where lyme disease is found and your dog has access to regions where
 Talk to your local veterinarian to find out if a lyme disease vaccine is a good decision.
 
 Unlike in humans, dogs rarely develop the characteristic bullseye type rash. Instead, the signs of lyme disease include:
+
 * Intermittent lameness that keeps recurring 
 * Fever
 * Swollen lymph nodes
@@ -204,6 +210,7 @@ It's purpose is to prolong the effect of rattlesnake venom, allowing you time to
 Getting bitten by a rattlesnake is still considered a veterinary emergency! Even after your dog has been vaccinated.
 
 Consider vaccinating your pet against rattlesnake venom if you:
+
 * Live in an area where snakes are common
 * Your dog is at a fairly high risk of getting bitten
 * you live far away from veterinary care and need extra time.
@@ -213,9 +220,10 @@ The rattlesnake vaccine is only intended to give time and will not protect again
 
 
 ### Bibliography/ further reading
-* American Veterinary Medical Association: https://www.avma.org/public/PetCare/Pages/Canine-Distemper.aspx, https://www.avma.org/public/PetCare/Pages/Leptospirosis.aspx
-* Merck veterinary manual (https://www.merck-animal-health-usa.com/dp/3)
-* UC Davis veterinary medicine (http://www.vetmed.ucdavis.edu/whatsnew/article.cfm?id=1883)
+
+* American Veterinary Medical Association: [Canine-Distemper](https://www.avma.org/public/PetCare/Pages/Canine-Distemper.aspx), [Leptospirosis](https://www.avma.org/public/PetCare/Pages/Leptospirosis.aspx)
+* [Merck veterinary manual](https://www.merck-animal-health-usa.com/dp/3)
+* (UC Davis veterinary medicine)[http://www.vetmed.ucdavis.edu/whatsnew/article.cfm?id=1883]
 
 
 

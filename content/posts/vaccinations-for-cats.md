@@ -17,6 +17,7 @@ The core vaccination schedule for cats include three diseases plus rabies if you
 Additional vaccines are only considered if your cat spends time outdoors or if it lives in a household where other cats spend time outdoors. Lets take a look at 
 
 ### Feline leukemia virus or FeLV
+It is recommended that all young cats less than a year should be vaccinated for FeLV and boostered 1 year later. At this time the need for vaccination based on lifestyle can be reassessed. 
 
 ### Feline immunodeficiency virus or FIV
 

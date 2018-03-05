@@ -57,6 +57,9 @@ The treatment for the different types of FORL is very different.
 
 In some cases, your vet will not perform a crown amputation. These include if your cat has infection around the area or if they are FeLV or FIV positive. 
 
+## How can I help to prevent FORL in my cat?
+* Dental care at home is important in reducing the risk of getting FORL. The best dental hygiene you can provide is with teeth brushing. Alternatively, you can try dental wipes, dental diets or additives to your pet's drinking water. 
+
 
 
 

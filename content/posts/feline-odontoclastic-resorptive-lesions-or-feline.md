@@ -2,7 +2,7 @@
 title: 'Feline Odontoclastic Resorptive lesions or "Feline '
 date: 2018-02-28T05:41:17.410Z
 ---
-FORL stands for Feline Odontoclastic Resorptive lesions which is a very common condition in cats. It may be present in up to 75% of cats older than 3 years old.
+FORL stands for Feline Odontoclastic Resorptive lesions which is a very common condition in cats. It is also known as feline caries, tooth resorption (TR) or feline cavities. It may be present in up to 75% of cats older than 3 years old.
 
 That name is quite over whelming so lets break it down:
 * F = Feline = seen in cats! 
@@ -20,8 +20,8 @@ To better understand some of the possible underlying causes, lets take a look at
 
 
 * One of the theories is that periodontal disease (disease affecting the space around the tooth) or poor dental hygiene leads to damage cementum, which then exposes the underlying dentin of the tooth to active odontoclasts, causing the tooth to be destroyed.
-* Another theory is that when hard food is bitten, small fractures in the tooth occurs leading to inflammation and exposure of the dentin to odontoclasts. 
-* Excessive levels of vitamin D in the diet.
+* Another theory is due to the thought that cats are not evolved to chew hard foods. Therefore, when hard food is bitten, "abfracation" injuries occur. THese are small fractures occuring in the root of the tooth which subsequently lead to inflammation and exposure of the dentin to odontoclasts. 
+* Excessive levels of vitamin D in the diet. In this theory, it is thought taht with high levels of vitamin D the normal way that cementum heals itself when damaged is altered so that instead of healing itself, it undergoes resorption. 
 
 
 ## How do I know if my cat is suffering from FORLs?
@@ -58,7 +58,13 @@ The treatment for the different types of FORL is very different.
 In some cases, your vet will not perform a crown amputation. These include if your cat has infection around the area or if they are FeLV or FIV positive. 
 
 ## How can I help to prevent FORL in my cat?
-* Dental care at home is important in reducing the risk of getting FORL. The best dental hygiene you can provide is with teeth brushing. Alternatively, you can try dental wipes, dental diets or additives to your pet's drinking water. 
+* Dental care at home is important in reducing the risk of getting FORL. The best dental hygiene you can provide is with teeth brushing. Alternatively, you can try dental wipes, dental diets or additives to your pet's drinking water.
+Excessive bacteria in your cat's mouth can cause inflammation which activate the odontoclasts that are responsible for FORL. 
+
+### Bibliography 
+* VIN veterinary associate  https://www.vin.com/Members/Associate/Associate.plx?DiseaseId=672
+* DVM 360 - How to detect and treat feline odontoclastic resorptive lesions http://veterinarymedicine.dvm360.com/dental-corner-how-detect-and-treat-feline-odontoclastic-resorptive-lesions
+* 
 
 
 

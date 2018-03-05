@@ -3,10 +3,11 @@ title: Vaccinations for Cats
 date: 2018-03-05T04:18:49.977Z
 ---
 ## Core Vaccinines 
+The core vaccination schedule for cats include three diseases plus rabies if you live in a rabies endemic country. You may hear the core feline vaccinations called F3, which is pretty self explanatory, it basically stands for 3 vaccines! Or you may hear it called FVRCP, which stands for Feline Viral Rhinotracheitis, Calivivirus and Panleukopenia. 
 
-### Feline rhinotracheitis or feline herpesvirus
+### Feline rhinotracheitis or feline herpesvirus (FHV-1)
 
-### Paneleukopenia
+### Feline Paneleukopenia Virus or FPV
 
 ### Calicivirus 
 

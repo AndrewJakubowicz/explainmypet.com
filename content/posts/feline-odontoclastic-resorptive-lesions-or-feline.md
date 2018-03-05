@@ -25,7 +25,7 @@ To better understand some of the possible underlying causes, lets take a look at
 
 
 ## How do I know if my cat is suffering from FORLs?
-It can be hard to notice signs of this in your cat. Behaviors to look out for include:
+It can be hard to notice signs of this in your cat. Although lesions that progress to the crown of the tooth are extremely painful (as they are in humans), cats often do not show any signs. Behaviors to look out for include:
 * Difficulty eating - eg they might drop food out of their mouth and appear to struggle when trying to eat.
 * Salivating excessively 
 * Bad breath
@@ -64,7 +64,7 @@ Excessive bacteria in your cat's mouth can cause inflammation which activate the
 ### Bibliography 
 * VIN veterinary associate  https://www.vin.com/Members/Associate/Associate.plx?DiseaseId=672
 * DVM 360 - How to detect and treat feline odontoclastic resorptive lesions http://veterinarymedicine.dvm360.com/dental-corner-how-detect-and-treat-feline-odontoclastic-resorptive-lesions
-* 
+* Feline Dentistry - Western Veterinary Conference 2010 https://www.vin.com/members/cms/project/defaultadv1.aspx?meta=VIN&pId=11300&id=4438714
 
 
 

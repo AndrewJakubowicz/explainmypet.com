@@ -20,5 +20,11 @@ Additional vaccines are only considered if your cat spends time outdoors or if i
 
 ### Feline immunodeficiency virus or FIV
 
+### Chlamydophila felis
+
+### Bordatella bronchiseptica
+
+### Feline Infectious Peritonitis (FIP)
+
 ### Bibliography
 * AAFP Feline Vaccination Advisory Panel http://journals.sagepub.com/doi/pdf/10.1177/1098612X13500429

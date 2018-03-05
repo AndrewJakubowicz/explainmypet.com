@@ -61,6 +61,8 @@ In some cases, your vet will not perform a crown amputation. These include if yo
 * Dental care at home is important in reducing the risk of getting FORL. The best dental hygiene you can provide is with teeth brushing. Alternatively, you can try dental wipes, dental diets or additives to your pet's drinking water.
 Excessive bacteria in your cat's mouth can cause inflammation which activate the odontoclasts that are responsible for FORL. 
 
+Unfortunately, that although dental care at home can help to prevent periodontal disease, that may cause FORLs sometimes they can simply not be prevented. 
+
 ### Bibliography 
 * VIN veterinary associate  https://www.vin.com/Members/Associate/Associate.plx?DiseaseId=672
 * DVM 360 - How to detect and treat feline odontoclastic resorptive lesions http://veterinarymedicine.dvm360.com/dental-corner-how-detect-and-treat-feline-odontoclastic-resorptive-lesions

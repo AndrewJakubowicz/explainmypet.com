@@ -40,7 +40,23 @@ While your cat is under anaesthetic your vet will probe all of their teeth (the 
 
 Secondly, your vet will take full mouth radiographs in order to see and to assess each tooth in its entirety. At this stage, if your vet identifies FORL, they will classify them into 2 different types:
 * Type 1 lesions: These are teeth that have evidence of destruction - essentialy it looks like the tooth is disappearing, but not yet to the point where the tooth is being replaced by bone. These type 1 lesions may progress into type 2. 
-* Type 2 lesions: These are where the root of the tooth is being replaced by bone. As the osteoclasts (cells that destroy teeth) are killing off the tooth, osteoblasts (cells that make bone) are laying down new bone. 
+* Type 2 lesions: These are where the root of the tooth is being replaced by bone. As the osteoclasts (cells that destroy teeth) are killing off the tooth, osteoblasts (cells that make bone) are laying down new bone.
+* Type 3 lesions are when one root is type 2, but the rest of the tooth is type 1. 
 
-## What do the affected teeth look like?
+As you might have guessed, the only way to distinguish between these two types is with x-rays. IF there were no x-rays, you wouldn't be able to see what was happening to the root and whether or not it was being resorbed.  
+
+It is important that your vet distinguishes between these two different types of lesions because the treatment for each type is very different! Read on! 
+
+## How is it treated?
+
+The treatment for the different types of FORL is very different.
+
+* Type 1 lesions: these are treated by extraction. Once the tooth is out, there is no more source of pain! 
+* Type 2 lesions: since the bone has already grown into the tooth, these are not able to be extracted as there is no clear boundary between tooth and bone like in type 1 lesions. Instead, to fix these lesions the crown of the tooth is amputated and the gingiva is sutured over the top. The resorbing root is left to resorb into the bone, just the way it has been doing. 
+* Type 3 lesions: when there is a combination of type 1 and type 2 lesions, a combination of the treatment is performed. The tooth is sectioned into its different roots, so that each section essentially functions like a 1 root tooth. When a FORL tooth is treated like this, it means the root that is type 2 can have its crown amputated, while the remaining root(s) can be treated for type 1 lesions and extracted. 
+
+In some cases, your vet will not perform a crown amputation. These include if your cat has infection around the area or if they are FeLV or FIV positive. 
+
+
+
 

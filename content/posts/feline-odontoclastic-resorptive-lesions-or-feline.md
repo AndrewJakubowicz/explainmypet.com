@@ -60,16 +60,16 @@ The treatment for the different types of FORL is very different.
 
 * Type 1 lesions: treated by extraction. There is no more source of pain once the tooth is out! 
 * Type 2 lesions: as the bone has already grown into the tooth, these can't be extracted as there is no clear boundary between tooth and bone like in type 1 lesions. Instead, the crown of the tooth is amputated and the gingiva is sutured over the top. The resorbing root is left to resorb into the bone, just as it has been doing.
-* Type 3 lesions: when there is a combination of type 1 and type 2 lesions, a combination of the treatment is performed. The tooth is sectioned into its different roots, so that each section essentially functions like a 1 root tooth. When a FORL tooth is treated like this, it means the root that is type 2 can have its crown amputated, while the remaining root(s) can be treated for type 1 lesions and extracted. 
+* Type 3 lesions: when there is a combination of type 1 and type 2 lesions, a combination of the treatment is performed. The tooth is sectioned into its different roots, so that each section essentially functions like a 1 root tooth. Then each piece of the tooth is treated based on its type.
 
-In some cases, your vet will not perform a crown amputation. These include if your cat has infection around the area or if they are FeLV or FIV positive. 
+In some cases, your vet will not perform a crown amputation. These include if your cat has an infection around the area or if they are FeLV or FIV positive. 
 
 ## How can I help to prevent FORL in my cat?
 
-* Dental care at home is important in reducing the risk of getting FORL. The best dental hygiene you can provide is with teeth brushing. Alternatively, you can try dental wipes, dental diets or additives to your pet's drinking water.
-  Excessive bacteria in your cat's mouth can cause inflammation which activate the odontoclasts that are responsible for FORL. 
+Dental care at home is important in reducing the risk of getting FORL. The best dental hygiene you can provide is with teeth brushing. Alternatively, you can try dental wipes, dental diets or additives to your pet's drinking water.
+Excessive bacteria in your cat's mouth can cause inflammation activating the odontoclasts that are responsible for FORL. 
 
-Unfortunately, that although dental care at home can help to prevent periodontal disease, that may cause FORLs sometimes they can simply not be prevented. 
+Athough dental care at home can help prevent periodontal disease, FORLs may still occur.
 
 ### Bibliography
 
